@@ -1,0 +1,4 @@
+C:\Users\Gil\documents\visual studio 2015\Projects\SuperSimpleStocks\StocksDomainModel\bin\Debug\StocksDomainModel.dll
+C:\Users\Gil\documents\visual studio 2015\Projects\SuperSimpleStocks\StocksDomainModel\bin\Debug\StocksDomainModel.pdb
+C:\Users\Gil\documents\visual studio 2015\Projects\SuperSimpleStocks\StocksDomainModel\obj\Debug\StocksDomainModel.dll
+C:\Users\Gil\documents\visual studio 2015\Projects\SuperSimpleStocks\StocksDomainModel\obj\Debug\StocksDomainModel.pdb
